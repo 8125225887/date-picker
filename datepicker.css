@@ -1,0 +1,15 @@
+table{
+ position:absolute;
+ width:200px;
+ margin-left: 150px;
+}
+td{
+  align-items: center;
+}
+#sta{
+  width: 100px;
+  position:static;
+}
+#cur{
+  cursor: pointer;
+}
